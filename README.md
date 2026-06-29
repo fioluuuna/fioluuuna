@@ -145,4 +145,3 @@ You write how you feel — Echoes finds someone in literary history who felt the
 
 *"Technology is not just about what we can build — it's about who we can help."*
 
-*"Technology is not just about what we can build — it's about who we can help."*

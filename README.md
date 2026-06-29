@@ -2,26 +2,25 @@
 
 🎓 **CS @ WKU** · Minor in Mathematics  
 🔬 HCI · Human-Centered AI · Empathetic Dialogue · Privacy-Aware Interaction · Accessibility  
-📍 Guangzhou, Wenzhou
+📍 Guangzhou, China · Wenzhou, China
 
 ---
 
 ## 👩‍💻 About Me
 
-I'm a first-year undergraduate student at Wenzhou-Kean University, majoring in Computer Science and Technology with a minor in Mathematics and Applied Mathematics.
+I'm a first-year undergraduate student at Wenzhou-Kean University, majoring in Computer Science with a minor in Mathematics and Applied Mathematics.
 
-My long-term research goal is to build **human-centered AI systems** that are trustworthy, emotionally aware, privacy-preserving, and accessible to older adults and people with disabilities.
+I believe technology should serve real people — understand their emotions, respect their circumstances, and actually help when they need it most. This is the foundation of everything I do in research.
 
-**My research centers on a single question:**
+**My work centers on one question:**
 
-> *How can AI help people act more effectively, more safely, and more equitably in emotionally charged, high-stakes, or accessibility-sensitive situations?*
+> *In moments of emotional intensity, high pressure, or vulnerability — can AI actually help?*
 
-To explore this question, I work across:
-- Interaction Design
-- Language Models & NLP
-- Behavioral Measurement
-- Cognitive Load & Trust Calibration
-- Privacy-Preserving Communication
+I care less about "what AI can do" and more about "when people need AI, and what kind of AI they need."
+
+To explore this, I focus on three things: understanding people (behavioral measurement & cognitive modeling), designing systems (interaction & dialogue), and defining boundaries (privacy & trust).
+
+This portfolio is a record of how I grow — from experiment design to system building, from reading papers to interdisciplinary collaboration. Every project here asks the same question: *how can technology actually help people?*
 
 ---
 
@@ -29,9 +28,9 @@ To explore this question, I work across:
 
 - Empathetic Dialogue Systems
 - Human-AI Trust and Trust Calibration
-- Privacy-Aware Narrative Generation
+- Privacy-Preserving Interaction Design
 - User Behavior Modeling Under Pressure
-- Accessible and Inclusive AI for Older Adults and People with Disabilities
+- Accessible and Inclusive AI
 
 ---
 
@@ -95,7 +94,7 @@ To explore this question, I work across:
 
 - Led product ideation, interaction design, and UX planning
 - Architected the "video browsing → AI route planning → social sharing" core loop
-- Integrated Amap API (real geolocation, routing, POI), GSAP animations, and MiniMax TTS
+- Used AI-assisted prototyping to integrate mapping, animation, and voice features into a complete demo
 
 🔗 [View Repository →](https://github.com/kk43994/douyin-bike-card) *(collaborative work)*
 
@@ -104,8 +103,8 @@ To explore this question, I work across:
 ### ⏰ "Dun Time" — Full-Stack WeChat Mini Program
 *Independent Full-Stack Project (2026)*
 
-- **Solo developed** from scratch: requirement analysis, UI/UX design, database design, and full-stack implementation
-- **Tech stack:** Node.js + WeChat Mini Program
+- **Solo developed** from scratch with AI-assisted coding: requirement analysis, UI/UX design, database design, and full-stack implementation
+- Built with Node.js + WeChat Mini Program
 - Features: ordering system, membership management, store admin dashboard, and integrated payment loop
 - Fully production-ready with real business operation capability
 
@@ -113,14 +112,17 @@ To explore this question, I work across:
 
 ---
 
-### 🎵 Echoes — AI-Powered Music Experience
-*Competition Team Project (2026)*
+### 🌊 Echoes — Literary Resonance Through Time
+*Hackathon Project · Independent Development (2026)*
 
-- Contributed to core feature development and codebase refactoring
-- Focused on improving system stability and user interaction flow
-- Iterated on the project post-competition to explore new interaction paradigms
+Echoes is not a diary — it's an echo. You write down how you feel, and it finds someone in literary history who has felt the same way, and speaks their words back to you. You don't get a random quote — you get evidence that what you're feeling is not strange, not alone. Someone across time has already put into words what you couldn't say.
 
-🔗 [View Repository →](https://github.com/fioluuuna/Echoes) *(team project, post-competition iteration)*
+- Designed and built the full-stack application with AI-assisted development (React + NestJS + PostgreSQL/pgvector)
+- Integrated Qwen-Max LLM for semantic understanding and text-embedding-v3 for vector retrieval
+- Engineered the core pipeline: user input → multi-dimensional semantic parsing (emotion, imagery, theme) → vector search → literary passage matching → explanation generation
+- The project explores how AI can facilitate **human-to-human resonance across time**, rather than providing generic AI-generated comfort
+
+🔗 [View Repository →](https://github.com/fioluuuna/Echoes)
 
 ---
 
@@ -140,25 +142,11 @@ To explore this question, I work across:
 
 | Category | Skills |
 |----------|--------|
-| **Languages** | Python, Java, TypeScript, JavaScript |
+| **Languages** | Python, Java, JavaScript |
 | **AI/ML** | PyTorch, Hugging Face Transformers, LLM Fine-Tuning, Model APIs |
 | **Prototyping** | React, Next.js, Tailwind, Node.js, WeChat Mini Program |
 | **Tools** | Git, GitHub, VS Code, Claude Code, Codex |
 | **Research** | Experimental Design, Data Analysis, Literature Review, Academic Writing |
-
----
-
-## 🎯 Why This Portfolio?
-
-This portfolio is not just a list of projects — it's an evolving record of how I build research competence in:
-
-- Rigorous problem formulation
-- Reproducible experimentation
-- Human-centered system design
-- Multilingual academic writing (English & Chinese)
-- Interdisciplinary collaboration
-
-I am especially interested in research and applications that help **older adults and people with disabilities access technology more equitably**.
 
 ---
 

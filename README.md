@@ -164,7 +164,7 @@ I am especially interested in research and applications that help **older adults
 
 ## 📫 Let's Connect
 
-- 📧 Email: bihnaini@kean.edu
+- 📧 Email: sunme@kean.edu
 - 📱 Phone: +86 18102761037
 - 🐙 GitHub: you're already here!
 

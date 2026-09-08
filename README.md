@@ -1,148 +1,49 @@
-# 👋 Hi, I'm Fiona (Menglu Sun)
+# Fiona · Menglu Sun
 
-🎓 **CS @ WKU** · Minor in Mathematics  
-🔬 HCI · Human-Centered AI · Accessible & Inclusive Design · Empathetic Dialogue · Privacy-Aware Interaction  
-📍 Guangzhou · Wenzhou
+Computer Science undergraduate at **Wenzhou-Kean University**, minoring in Applied Mathematics. Class of 2029.
 
----
+I turn ideas into AI-assisted products and interactive experiences. I enjoy shaping the concept, making product decisions, and bringing a prototype to life with AI coding and creative tools.
 
-## 👩‍💻 About Me
+My research interests are **human–AI interaction and human–agent collaboration**: how people express preferences, guide AI systems, and stay in control as those systems become more capable.
 
-I'm a first-year undergraduate at Wenzhou-Kean University, majoring in Computer Science with a minor in Mathematics and Applied Mathematics.
+## Currently
 
-I build AI systems that actually work for people who need them most — older adults, people with disabilities, and anyone facing high-stress or vulnerable situations. My research combines software prototyping, behavioral experiment design, and AI modeling to create technologies that are **usable, trustworthy, and equitable**.
+- **AI Full-Stack Engineer Intern · Tripo Lab / VAST** — exploring creative products with AI and 3D.
+- **Human–AI interaction research with Zhuoran Lu** — contributing to UI-chat, which studies how developers guide coding agents in preference-sensitive frontend tasks. My current work focuses on frontend task datasets and task examples.
+- Continuing **Pocket Friend** with friends and learning more about engineering through hands-on projects.
 
-**My work centers on one question:**
+## Selected work
 
-> *In moments of emotional intensity, high pressure, or vulnerability — can AI actually help?*
+| Project | What I contributed | Explore |
+| --- | --- | --- |
+| **Touch Drama · 触手可剧** | Product direction and interactive storytelling. Scoped the experience around short video segments and scene interactions; removed an audience script-creation flow to fit platform performance and waiting-time constraints. | [Overview](https://my.feishu.cn/wiki/ObJ1wcfF5iSdKOk86bBcRLuYnQg) · Available on Douyin via **互动短剧剧场** |
+| **Pocket Friend** | AI-assisted full-stack software development for a playful social icebreaker. Continuing the project with friends. | [Code](https://github.com/fioluuuna/pocket-friend) · [Demo](https://www.bilibili.com/video/BV1t8336rE1o/) |
+| **RideSnap** | Product concept, interaction and visual design, and AI-assisted frontend development for a cycling-card experience. | [Code](https://github.com/fioluuuna/douyin-bike-card) · [Overview](https://lcnfwar0gp2b.feishu.cn/wiki/K5www4ClUirbWWk4qYQcWdI3nVe) |
+| **Guicheng · 归程** | PRD, AI-assisted full-stack development, demo recording and presentation in a four-person team building an app about life and bereavement. | [Team code](https://github.com/123bingowinnn/death-education-hackathon) |
 
-I focus on three things: **understanding people** (behavioral measurement & cognitive modeling), **designing systems** (interaction & dialogue), and **defining boundaries** (privacy & trust).
+Other collaborations: **[FirstAid Copilot](https://github.com/fioluuuna/FirstAid-Copilot)** — original concept and PRD for an emergency-guidance prototype, with engineering led by a teammate ([phone demo](https://www.bilibili.com/video/BV1z2E36LE5J/)); **[Echoes](https://github.com/fioluuuna/Echoes)** — product and presentation for a project connecting feelings with literature.
 
----
+## Competition highlights
 
-## 🔬 Research Interests
+- **AdventureX 2026** — theme first prize and miHoYo track special prize, Pocket Friend.
+- **Douyin AI Creator Program** — Wenzhou first place, RideSnap; 大区赛「青年共鸣奖」「游园会之星」, Touch Drama.
+- **Google developer competition 2026** — 优秀作品奖 and 赛道优胜奖, FirstAid Copilot.
+- **Datawhale university hackathon · Peking University division** — 6th place, Echoes.
 
-- Accessible and Inclusive AI
-- Human-AI Trust and Trust Calibration
-- Empathetic Dialogue Systems
-- Privacy-Preserving Interaction Design
-- User Behavior Modeling Under Pressure
+I like writing, exploring unfamiliar cities, and meeting people who enjoy making things. I'm open to project collaborations around AI products and human–agent interaction.
 
----
-
-## 📚 Research
-
-### 1. AI-Powered First-Aid Guidance Under Time Pressure
-*Ministry of Education Humanities and Social Sciences Research Project · Research Team Member (2026–Present)*
-
-- Serve as the only Computer Science member on an interdisciplinary team spanning HCI, cognitive psychology, and public health
-- Lead the architecture design and core module development of the FirstAid Copilot prototype
-- Contribute to operationalizing cognitive load (NASA-TLX), human-AI trust dynamics, and behavioral process indicators
-- Examine how AI explanation depth interacts with time pressure to shape user behavior
+Contact: [fioluuuna@gmail.com](mailto:fioluuuna@gmail.com)
 
 ---
 
-### 2. Narrative Privacy: Privacy Preservation for Empathetic Dialogue
-*Independent Research (2026–Present)*
+## 中文
 
-- First to define **"Narrative Privacy"** , distinguishing it from entity-level privacy (e.g., PRISM)
-- Proposed the *Minimal Disclosure Narrative Skeleton* framework to address "semantic utility collapse" caused by entity replacement
-- Designed **Privacy-Empathy F1** as a joint evaluation metric for privacy protection and empathetic quality
+我是**孙萌潞（Fiona）**，温州肯恩大学计算机专业本科生，辅修应用数学，预计 2029 年毕业。
 
----
+我喜欢从模糊的想法开始，逐步形成产品概念、交互与视觉方案，再借助 AI 编程和创作工具把它做成可以体验的作品。目前在 **VAST / Tripo Lab 担任 AI 全栈工程师实习生**，探索 AI 与 3D 的创意产品。
 
-### 3. Emotion Interference-Constrained Fine-Tuning of LLMs for Empathetic Dialogue
-*Collaborative Research (2026–Present)*
+我的研究兴趣是**人本人工智能、人机交互与人和 Agent 的协作**。目前参与 UI-chat，围绕开发者如何表达偏好、引导编码 Agent 完成前端任务开展研究，当前负责前端任务数据集及题目样例调研。
 
-- Introduced the concept of **"wave interference"** into LLM emotion representation learning
-- Designed an auxiliary loss function to constrain representation space during fine-tuning
-- Fine-tuned DialoGPT on EmpatheticDialogues dataset with probing-based evaluation
+上面的项目表列出了作品和我的具体贡献：触手可剧已在抖音“互动短剧剧场”小程序中上线；Pocket Friend 正与朋友继续推进；RideSnap、归程及其他比赛作品也保留了代码与演示入口。
 
----
-
-### 4. AI Language Technologies for Wenzhou's Digital Economy
-*Wenzhou Association for Science and Technology Service Innovation Project · Research Team Member (2026–Present)*
-
-- Contribute to questionnaire design, data collection, and policy analysis on AI applications in enterprise, education, and public services
-
----
-
-## 🛠 Selected Projects
-
-### 🚑 FirstAid Copilot — On-Device AI Emergency Guidance Agent
-*Beijing Semi-Finalist · Invited to Google 2026 Developer Conference · Ministry of Education Project Prototype*
-
-A mobile AI agent designed for **non-expert bystanders**—especially older adults and people with limited digital literacy—to deliver safe, real-time CPR guidance under time pressure. Hybrid architecture (rule-based state machine + AI dialogue) ensures auditable safety while preserving conversational flexibility. Fully offline Android MVP with Gemma 4, offline STT/TTS, and MediaPipe pose estimation.
-
-**Accessibility:** Voice-first interaction, large touch targets, auditory rhythm metronome, cognitive-load-reduced instructions.
-
-🔗 [View Repository →](https://github.com/fioluuuna/FirstAid-Copilot) *(forked, lead contributor)*
-
----
-
-### 🚴 RideSnap — Smart Cycling Card
-*Wenzhou 1st Place · Hackathon MVP*
-
-Led product ideation, interaction design, and UX planning. Architected the "video browsing → AI route planning → social sharing" core loop. Integrated Amap API, GSAP animations, and MiniMax TTS.
-
-**Accessibility:** Clear visual hierarchy, TTS for eyes-free navigation, minimal text density for low digital literacy users.
-
-🔗 [View Repository →](https://github.com/fioluuuna/douyin-bike-card) *(forked, lead contributor)*
-
----
-
-### ⏰ "Dun Time" — Full-Stack WeChat Mini Program
-*Independent Full-Stack Project (2026)*
-
-Solo developed from scratch: requirement analysis, UI/UX design, database design, and full-stack implementation with Node.js + WeChat Mini Program. Features ordering system, membership management, store admin dashboard, and integrated payment loop. Fully production-ready.
-
-**Accessibility:** Respects WeChat's native font scaling and screen-reader compatibility; minimal input steps for users with limited digital experience.
-
-🔗 [View Repository →](https://github.com/fioluuuna/chuntime-mini-program)
-
----
-
-### 🌊 Echoes — Literary Resonance Through Time
-*Hackathon Project · Independent Development (2026)*
-
-You write how you feel — Echoes finds someone in literary history who felt the same way, and speaks their words back to you. Not generic AI comfort, but **human-to-human resonance across time**. Built with React + NestJS + PostgreSQL/pgvector, integrating Qwen-Max LLM and text-embedding-v3 for semantic retrieval.
-
-**Accessibility:** Clean high-contrast layout, plain-language explanations, supports varied literacy levels.
-
-🔗 [View Repository →](https://github.com/fioluuuna/Echoes)
-
----
-
-## 🏆 Competitions & Honors
-
-| Competition | Result |
-|-------------|--------|
-| Gemma 4 Developer Contest (FirstAid Copilot) | **Beijing Semi-Finalist** · **Invited to Google 2026 Developer Conference** |
-| Douyin AI Creator Program (RideSnap) | **Wenzhou 1st Place** |
-| Datawhale University Hackathon (Peking University) | **6th Place** |
-| Guangzhou Talents Program Medical Camp, Jinan University | **Outstanding Participant** (Aging Health Track) |
-
----
-
-## 🛠 Tech & Skills
-
-| Category | Skills |
-|----------|--------|
-| **Languages** | Python, Java, JavaScript/TypeScript |
-| **AI/ML** | PyTorch, Hugging Face Transformers, LLM Fine-Tuning, Prompt Engineering, Model APIs |
-| **Prototyping** | React, Next.js, Node.js, WeChat Mini Program, Tailwind CSS |
-| **Research** | Experimental Design, Literature Review, Behavioral Measurement, Data Analysis, Academic Writing |
-| **Tools** | Git, GitHub, VS Code |
-
----
-
-## 📫 Let's Connect
-
-- 📧 sunme@kean.edu
-- 📱 +86 18102761037
-- 🐙 You are already here!!!
-
----
-
-*"Technology is not just about what we can build — it's about who we can help."*
-
+我喜欢写作、独自旅行，也期待认识愿意一起探索、学习和做项目的伙伴。
